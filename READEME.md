@@ -57,7 +57,7 @@
 
 ## <a name="code-style">代码规范及最佳实践</a>
 
-*[部门规范](http://ued.woniu.com/f2e/rule.html)
+* [部门规范](http://ued.woniu.com/f2e/rule.html)
 
 
 ## <a name="demo">内部及第三方模块使用</a>
