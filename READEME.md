@@ -26,8 +26,37 @@
 	* [前端De早读课](http://www.zaoduke.net/)
 	* [前端外刊评论](http://zhuanlan.zhihu.com/FrontendMagazine)
 
-
-
+* 知名UED
+   
+    - 腾讯系
+		* [http://cdc.tencent.com/](http://cdc.tencent.com/)
+		* [http://isd.tencent.com/](http://isd.tencent.com/)
+		* [http://wsd.tencent.com/](http://wsd.tencent.com/)
+		* [http://flashteam.tencent.com/](http://flashteam.tencent.com/)
+		* [http://tgideas.qq.com/](http://tgideas.qq.com/)
+    - 阿里系
+		* [http://ued.taobao.com/](http://ued.taobao.com/)
+		* [http://ued.alipay.com/](http://ued.alipay.com/)
+		* [http://www.aliued.com/](http://www.aliued.com/)
+		* [http://www.aliued.cn/](http://www.aliued.cn/)
+		* [http://ued.alimama.com/](http://ued.alimama.com/)
+		* [http://ued.koubei.com/](http://ued.koubei.com/)
+	- 百度系
+		* [http://www.baiduux.com/](http://www.baiduux.com/)
+		* [http://mux.baidu.com/](http://mux.baidu.com/)
+	- 网易系
+		* [http://uedc.163.com/](http://uedc.163.com/)
+		* [http://www.ued163.com/](http://www.ued163.com/)
+		* [http://ucd.blog.163.com/](http://ucd.blog.163.com/)
+	- 其他
+		* [http://ued.sina.com/](http://ued.sina.com/)
+		* [http://www.sndaued.com/](http://www.sndaued.com/)
+		* [http://ued.sohu.com/](http://ued.sohu.com/)
+		* [http://ued.iciba.com/](http://ued.iciba.com/)
+		* [http://ued.ctrip.com/](http://ued.ctrip.com/)
+		* [http://www.kdued.com/](http://www.kdued.com/)
+		* [http://ued.5173.com/](http://ued.5173.com/)
+		* [http://blog.19ued.com/](http://blog.19ued.com/)
 
 ## 目录
 * [内部分享](#share)
