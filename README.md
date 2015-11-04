@@ -95,9 +95,6 @@
 
 
 ## <a name="software">软件</a>
-* [软件推荐](software/suggest.md)
-* [Git](software/git.md)
-* [Gitflow工作流](software/gitflow.md)
-* [Markdown](software/markdown.md)
-* [weinre](software/weinre.md) 在电脑上直接调试运行在手机上的远程页面
-* [reveal.js](software/reveal.js.md) 是一个展示内容的框架，可以简单的理解为网页版的PPT。
+* [Git](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+* [Markdown](http://sspai.com/25137)
+* [reveal.js](https://github.com/hakimel/reveal.js) 是一个展示内容的框架，可以简单的理解为网页版的PPT。
