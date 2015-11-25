@@ -118,13 +118,13 @@
 
 	- 综合类
 
-		*[移动Web单页应用开发实践——页面结构化](https://github.com/maxzhang/maxzhang.github.com/issues/8)
-		*[移动Web产品前端开发口诀——“快”](https://github.com/maxzhang/maxzhang.github.com/issues/1)
-		*[移动Web开发，4行代码检测浏览器是否支持position:fixed](https://github.com/maxzhang/maxzhang.github.com/issues/7)
-		*[使用border-image实现类似iOS7的1px底边](https://github.com/maxzhang/maxzhang.github.com/issues/4)
-		*[移动端web页面使用position:fixed问题总结](https://github.com/maxzhang/maxzhang.github.com/issues/2)
-		*[移动Web开发实践——解决position:fixed自适应BUG](https://github.com/maxzhang/maxzhang.github.com/issues/11)
-		*[移动手机浏览器m3u8格式视频流播放支持程度测试](https://github.com/maxzhang/maxzhang.github.com/issues/19)
+		* [移动Web单页应用开发实践——页面结构化](https://github.com/maxzhang/maxzhang.github.com/issues/8)
+		* [移动Web产品前端开发口诀——“快”](https://github.com/maxzhang/maxzhang.github.com/issues/1)
+		* [移动Web开发，4行代码检测浏览器是否支持position:fixed](https://github.com/maxzhang/maxzhang.github.com/issues/7)
+		* [使用border-image实现类似iOS7的1px底边](https://github.com/maxzhang/maxzhang.github.com/issues/4)
+		* [移动端web页面使用position:fixed问题总结](https://github.com/maxzhang/maxzhang.github.com/issues/2)
+		* [移动Web开发实践——解决position:fixed自适应BUG](https://github.com/maxzhang/maxzhang.github.com/issues/11)
+		* [移动手机浏览器m3u8格式视频流播放支持程度测试](https://github.com/maxzhang/maxzhang.github.com/issues/19)
 
 ## 目录
 * [内部工具及个人分享列表](#share)
